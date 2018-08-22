@@ -1,0 +1,7 @@
+{
+    "codeintel_language_settings": {
+        "Ruby": {
+            "ruby": "~/.rbenv/shims/ruby"
+        }
+    }
+}
